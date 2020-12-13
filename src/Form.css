@@ -1,0 +1,11 @@
+input {
+    width: 50vw;
+    height: 30px;
+    margin: 10px;
+}
+
+button[type="submit"] {
+    width: 70px;
+    height: 35px;
+    cursor: pointer;
+}
